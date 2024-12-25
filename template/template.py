@@ -20,6 +20,6 @@ class Foo:
 
         i: int = 0
 
-        while i < 10:
+        while i < 10 and i > 0:
             print(i)
             i += 1
