@@ -40,7 +40,8 @@
 	<i style="color: #4BB543">readability</i>
 </h2>
 
-<br>
+<!-- avoid img.shields.io cache -->
+<img src="https://hits.dwyl.com/Alexdelia/vity-vscode.json" width="0" height="0" style="display:none;" />
 
 <!-- install -->
 ## Install
